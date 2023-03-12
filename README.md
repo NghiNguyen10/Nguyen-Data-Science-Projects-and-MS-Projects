@@ -1,17 +1,13 @@
-## Pathrise Coding Tutorials for Nghi Nguyen
-
-### Fellow
-
-- Nghi Nguyễn
+## Nguyen-Projects Coding
 
 ### Description
 
-- This coding repository contains projects / interview preparation materials / and documents for data science, machine learning, and some software engineering.
+- This coding repository contains projects / and documents for data science, machine learning, and some software engineering.
 
 ### Projects
 
-1. Skillshed Analysis
-2. Spotify Music Recommendation
+1. Skillshed Analysis - Hierarchical Clustering
+2. Skillshed Analysis - Hyrid Clustering-Hierarchical & Fuzzy c-means
 3. Financial Machine Learning
 
 ### Topics
