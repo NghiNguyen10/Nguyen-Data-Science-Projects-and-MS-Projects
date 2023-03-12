@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+.venv
+.cache
+client_exploration-jvsc-*
+data/skillshed_comparison
+data/sql_data
+.Rhistory
